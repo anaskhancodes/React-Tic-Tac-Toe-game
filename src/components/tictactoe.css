@@ -113,8 +113,8 @@ table tbody tr .td-9 {
 
 @media screen and (max-width: 320px) {
     table tbody tr td {
-        width: 80px;
-        height: 80px;
+        width: 90px;
+        height: 90px;
     }
     .pop-up {
         margin-top: 129px;
