@@ -90,7 +90,7 @@ const TicTacToo = () => {
 
 
   return (
-    <div className='text-center abd'><h1>Tic Tac Toe</h1>
+    <div className='text-center abd'><h1>Tic <span>Tac</span> Toe</h1>
 
       {winner ? (
         <div className='pop-up'>
